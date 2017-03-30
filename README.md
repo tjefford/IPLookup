@@ -1,4 +1,4 @@
-# IPLookup
+# IPLookup [ ![Codeship Status for tjefford/IPLookup](https://app.codeship.com/projects/edaf3290-f730-0134-51bb-22328b7a42f6/status?branch=master)](https://app.codeship.com/projects/210655)
 A basic ruby gem to get the Country data of a given IP address using the public API from [ip2country](https://ip2country.info/).
 
 ### Other Gem Dependencies
